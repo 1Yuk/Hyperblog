@@ -1,4 +1,15 @@
 body {
+    margin: 0;
+    padding: 0;
+}
+
+.conteiner-1 {
+    border: 1px solid rgb(140, 139, 139);
+    margin: 16rem 16rem;
+    padding: 6rem;
+}
+
+.conteiner-2 {
     color: deeppink;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
